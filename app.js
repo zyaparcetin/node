@@ -7,3 +7,4 @@ require('./7-mind-grenade')
 sayHi('susan')
 sayHi(names.john)
 sayHi(names.peter)
+//add something later
