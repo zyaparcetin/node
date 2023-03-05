@@ -1,7 +1,7 @@
 {
   "name": "node",
-  "version": "1.0.0",
-  "description": "This is a sample project for Udemy\r ...\r mmm",
+  "version": "0.0.1",
+  "description": "This is a sample project for node.js from Udemy",
   "main": "1-intro.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -11,8 +11,8 @@
     "url": "git+https://github.com/zyaparcetin/node.git"
   },
   "keywords": [],
-  "author": "",
-  "license": "ISC",
+  "author": "Zeynep Yapar Cetin <yaparcetinzeynep@gmail.com",
+  "license": "MIT",
   "bugs": {
     "url": "https://github.com/zyaparcetin/node/issues"
   },
