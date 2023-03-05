@@ -1,7 +1,2 @@
 # node
-This is a sample project for Udemy
-...
-mmm
-
-
-add something
+This is a sample project for node.js from Udemy
