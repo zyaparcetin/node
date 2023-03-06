@@ -4,6 +4,8 @@
   "description": "This is a sample project for node.js from Udemy",
   "main": "1-intro.js",
   "scripts": {
+    "start": "node app.js",
+    "dev": "nodemon app.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
