@@ -19,7 +19,6 @@
   },
   "homepage": "https://github.com/zyaparcetin/node#readme",
   "dependencies": {
-    "bootstrap": "^5.2.3",
     "lodash": "^4.17.21"
   },
   "devDependencies": {
